@@ -13,7 +13,7 @@ public class IntegerDivider {
             System.out.println("can be divided completely");
         } else {
             System.out.println("cannot be divided completely");
+
         }
     }
-
 }

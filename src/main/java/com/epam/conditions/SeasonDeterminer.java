@@ -14,6 +14,7 @@ public class SeasonDeterminer {
         } else {
             System.out.println("Wrong month number");
         }
+
     }
 
 }

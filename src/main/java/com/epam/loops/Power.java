@@ -8,6 +8,7 @@ public class Power {
             result *= numberToPrint;
         }
         System.out.println(result);
+
     }
 
     public static void main(String[] args) {

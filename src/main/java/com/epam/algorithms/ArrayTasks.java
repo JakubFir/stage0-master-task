@@ -13,6 +13,7 @@ public class ArrayTasks {
     public String[] seasonsArray() {
         String[] seasons = {"Winter", "Spring", "Summer", "Autumn"};
         return seasons;
+
     }
 
     /**
@@ -29,6 +30,7 @@ public class ArrayTasks {
             result[i] = i + 1;
         }
         return result;
+
     }
 
     /**
@@ -44,6 +46,7 @@ public class ArrayTasks {
             sum += result;
         }
         return sum;
+
     }
 
     /**
@@ -61,6 +64,7 @@ public class ArrayTasks {
             }
         }
         return -1;
+
     }
 
     /**
@@ -81,6 +85,7 @@ public class ArrayTasks {
             rightIndex--;
         }
         return reversedArray;
+
     }
 
     /**
